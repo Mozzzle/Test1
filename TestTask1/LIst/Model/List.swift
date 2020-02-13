@@ -1,4 +1,4 @@
-//111
+//
 //  AppDelegate.swift
 //  Test Task 1
 //
